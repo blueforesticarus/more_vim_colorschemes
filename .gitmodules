@@ -1,0 +1,81 @@
+[submodule "madeofcode"]
+	path = madeofcode
+	url = https://github.com/bruschill/madeofcode.git
+[submodule "vim-colors-lucid"]
+	path = vim-colors-lucid
+	url = https://github.com/cseelus/vim-colors-lucid.git
+[submodule "vim-two-firewatch"]
+	path = vim-two-firewatch
+	url = https://github.com/rakr/vim-two-firewatch.git
+[submodule "vim-colors-japanesque"]
+	path = vim-colors-japanesque
+	url = https://github.com/aereal/vim-colors-japanesque.git
+[submodule "vim-monochrome"]
+	path = vim-monochrome
+	url = https://github.com/fxn/vim-monochrome.git
+[submodule "argonaut.vim"]
+	path = argonaut.vim
+	url = https://github.com/effkay/argonaut.vim.git
+[submodule "vim-materialtheme"]
+	path = vim-materialtheme
+	url = https://github.com/gwutz/vim-materialtheme.git
+[submodule "blackboard.vim"]
+	path = blackboard.vim
+	url = https://github.com/ratazzi/blackboard.vim.git
+[submodule "birds-of-paradise.vim"]
+	path = birds-of-paradise.vim
+	url = https://github.com/ronny/birds-of-paradise.vim.git
+[submodule "vimColors"]
+	path = vimColors
+	url = https://github.com/jyota/vimColors.git
+[submodule "ego.vim"]
+	path = ego.vim
+	url = https://github.com/geetarista/ego.vim.git
+[submodule "hilal"]
+	path = hilal
+	url = https://github.com/kocakosm/hilal.git
+[submodule "moonshine-vim"]
+	path = moonshine-vim
+	url = https://github.com/KKPMW/moonshine-vim.git
+[submodule "mod8.vim"]
+	path = mod8.vim
+	url = https://github.com/easysid/mod8.vim.git
+[submodule "vim-brogrammer-theme"]
+	path = vim-brogrammer-theme
+	url = https://github.com/marciomazza/vim-brogrammer-theme.git
+[submodule "Sierra"]
+	path = Sierra
+	url = https://github.com/AlessandroYorba/Sierra.git
+[submodule "Sift"]
+	path = Sift
+	url = https://github.com/vim-scripts/Sift.git
+[submodule "vim-nefertiti"]
+	path = vim-nefertiti
+	url = https://github.com/jeetsukumaran/vim-nefertiti.git
+[submodule "inkpot"]
+	path = inkpot
+	url = https://github.com/vim-scripts/inkpot.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/challenger-deep-theme/vim.git
+[submodule "vim-coffee"]
+	path = vim-coffee
+	url = https://github.com/duythinht/vim-coffee.git
+[submodule "vim-gotham"]
+	path = vim-gotham
+	url = https://github.com/whatyouhide/vim-gotham.git
+[submodule "Spink"]
+	path = Spink
+	url = https://github.com/ehartc/Spink.git
+[submodule "cobalt2-vim-theme"]
+	path = cobalt2-vim-theme
+	url = https://github.com/GertjanReynaert/cobalt2-vim-theme.git
+[submodule "heroku-colorscheme"]
+	path = heroku-colorscheme
+	url = https://github.com/stulzer/heroku-colorscheme.git
+[submodule "abbott.vim"]
+	path = abbott.vim
+	url = https://github.com/vim-scripts/abbott.vim.git
+[submodule "vim-colors_atelier-schemes"]
+	path = vim-colors_atelier-schemes
+	url = https://github.com/atelierbram/vim-colors_atelier-schemes.git
