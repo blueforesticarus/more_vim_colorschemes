@@ -76,6 +76,3 @@
 [submodule "abbott.vim"]
 	path = abbott.vim
 	url = https://github.com/vim-scripts/abbott.vim.git
-[submodule "vim-colors_atelier-schemes"]
-	path = vim-colors_atelier-schemes
-	url = https://github.com/atelierbram/vim-colors_atelier-schemes.git
